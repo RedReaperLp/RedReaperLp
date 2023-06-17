@@ -24,7 +24,7 @@
             <img src="metrics.lines.pushed.svg" alt="Metrics">
         </picture>
     </td>
-    <td>
+    <td vertical-align="top">
         <picture>
             <img src="languages.metrics.svg" alt="Metrics">
         </picture>
