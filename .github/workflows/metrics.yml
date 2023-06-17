@@ -51,7 +51,7 @@ jobs:
       - name: Music
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.spotify.svg
+          filename: metricss.spotify.svg
           plugin_music: yes
           token: NOT_NEEDED
           plugin_music_provider: spotify
