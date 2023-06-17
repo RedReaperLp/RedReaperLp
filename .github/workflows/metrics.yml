@@ -25,4 +25,6 @@ jobs:
           filename: metrics.steam.svg
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          
+          plugin_steam_user: red_reaper_lp
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 4
