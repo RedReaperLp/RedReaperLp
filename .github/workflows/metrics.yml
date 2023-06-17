@@ -24,6 +24,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.steam.svg
+          token: NOT_NEEDED
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: red_reaper_lp
