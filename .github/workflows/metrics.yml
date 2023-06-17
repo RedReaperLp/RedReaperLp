@@ -36,7 +36,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage, lines     
+          plugin_languages_details: bytes-size, percentage, lines   
+          plugin_language_limit: 4
+          plugin_languages_sections: recently-used, most-used
           base: ""
       - name: Lines Pushed
         uses: lowlighter/metrics@latest
