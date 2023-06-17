@@ -35,6 +35,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_threshold: 1%
+          plugin_languages_threshold: 0.5%
           plugin_languages_details: bytes-size, percentage, lines     
           base: ""
