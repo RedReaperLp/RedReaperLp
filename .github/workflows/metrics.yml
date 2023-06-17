@@ -37,7 +37,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines   
-          plugin_language_limit: 8
           plugin_languages_sections: most-used, recently-used
           base: ""
       - name: Lines Pushed
@@ -52,6 +51,7 @@ jobs:
       - name: Music
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.spotify.svg
           plugin_music: yes
           token: NOT_NEEDED
           plugin_music_provider: spotify
