@@ -43,6 +43,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.lines.pushed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
           plugin_lines_sections: repositories, base, history
           plugin_lines_history_limit: 1
