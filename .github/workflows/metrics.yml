@@ -48,6 +48,15 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_history_limit: 1
           base: repositories
+      - name: Last chess game from lichess.org
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.lichess.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.LICHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
       - name: Music
         uses: lowlighter/metrics@latest
         with:
@@ -57,4 +66,4 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_mode: recent
-          plugin_music_user: "RedReaperLp"
+          plugin_music_user: "thft4ud8mg1mq6civk4o3dkio"
