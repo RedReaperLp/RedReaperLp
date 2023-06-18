@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <th align="center">Pushed Lines of Code</th>
-        <th align="center">Most used Languages</th>
+        <th align="center">Latest <a href="https://lichess.org">Chess</a> game</th>
     </tr>
     <td>
         <picture>
@@ -26,16 +26,16 @@
     </td>
     <td style="vertical-align: top;">
         <picture>
-            <img src="languages.metrics.svg" alt="Metrics">
+            <img src="metrics.lichess.svg" alt="Metrics">
         </picture>
     </td>
     </tr>
     <tr>
-        <th align="center">Latest <a href="https://lichess.org">Chess</a> game</th>
+        <th align="center">Most used Languages</th>
     </tr>
     <td>
         <picture>
-            <img src="metrics.lichess.svg" alt="Metrics">
+            <img src="languages.metrics.svg" alt="Metrics">
         </picture>
     </td>
 </table>
