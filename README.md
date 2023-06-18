@@ -30,4 +30,12 @@
         </picture>
     </td>
     </tr>
+    <tr>
+        <th align="center">Latest <a href="https://lichess.org">Chess</a> game</th>
+    </tr>
+    <td>
+        <picture>
+            <img src="metrics.lichess.svg" alt="Metrics">
+        </picture>
+    </td>
 </table>
