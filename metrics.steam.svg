@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="650" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="484" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            353 hours played
+                            354 hours played
                         </div>
                     </section>
                 </div>
@@ -147,15 +147,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwADBAYIAgEF/8QALBAAAQIFAwQBBAIDAAAAAAAAAQIDAAQFBhEHEiETMUFRIggUMmEjkUJxof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/xAAbEQADAQEBAQEAAAAAAAAAAAAAARECIQMSMf/aAAwDAQACEQMRAD8Ayx3IJjpoBSxtBzHOMd+DH1LXkxUK/JSrighLq8EmFlVpEbibLJZlj127ZzpUSQdfCMFxaeyB7Mal0t0bm7aknlVKfZcmX0YKUJI2f7gd6d1ug6WyyanPuPzU9NPFn7Jh3appIPC1eCDGibmqkwmn0ipSJ6bTmHnArn4lOQD/AHHVvfnqZOKWPTNYAL8+natTM3NTtLqDD6eVhkJO5R9CAJdNpVa2pssVuRelHc4SFjv+4Lt1at3givPPszjILLhCNicJCQeMiL7pffrerAm6BdtMYcnEt/GZS2B39RtrS7ouHl8yZFca2knPiO22ApO9RwfBi4ayWoiy77nKQ04HG9ocGPAVFbVtDaABuQBziCkmNuHyMjBMSae4Wp9hxKikpOcg9oYI8YhJA6g5xiOa5IJllr02JuUSsFZXkBSickxsqTrDVV+n92eSs/wSewKJ5BSAIw/MOn7JAB5B5HqNOaczjrv0l3FvBy2l4JPv5COnpr6dB55iMyvTjz9TUXXVKT1CTg+I0p9LNoP0Nqq3jcB+2kOlhnqHGMH8j+sGBZodYrdzVKYq1ZcEvSpBIc3uDAeVnBSII/1E325TqRK2bSm1SACA46kn821D4niA3RSAKv8ArUxcF21SoTbnUKn1paV7SFHH/Ignd00EgZx4iBxkb1bgPMTFKw2BnIPaGuB0RFsqx8kKA8H1DJR8u3MEupVegPW/Ly0pJqRUw4ouuqIKSjwAIo9XUypCOlj8uVCAVNs6or1Nl6lIrrsu9NUtLmZhlhexbifSVeDGnLYr9pO6B3S3btIqMrS20KUuXmHwtaju5wYyg6R00jPY9oM2lUypzRfUKWU+2tLcjvSyB8kEq/In1GYkQNRdYjcVFptIt6mikU+VQlK0pACnCBg5IgWvTT05MKen33n3cABTqypWPAyfERAMAH+xHbWckjk+BEX6YcO09hEoKG0ARFQrH5DmHmiOoMwrAtUXWT7iO6sHsYSgCOIbKcGDBKHiu+Ug4/cFbRtbYsvUxhbiUrepCUtg/wCSt8CopxxnI/UWiwpuUlZidaqEz9uxMNbDk4zG6Uqvbg94Q47Q9NJSJp4NnLe87T7GeIaxE6Y9Bx3zD7TrfkGGAM+YQGIvScP/2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Pummel Party</div>
+                                <div class="name">Phasmophobia</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Casual, Indie
+                                        Action, Indie, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        16 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -171,7 +171,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 Aug 2023
+                                        Last played on 15 Oct 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -180,52 +180,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 31 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYBBQIDB//EACsQAAICAQMBBwMFAAAAAAAAAAECAwQFABEhBhITMUFRYZEWIoE0UnFy0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAjEQABBAIBBAMBAAAAAAAAAAABAgMEEQAhBRJxsfAxQVGh/9oADAMBAAIRAxEAPwA7P57JxZzIRxZG2ka2JAqrMwAHaPA51GFyOayuThpRZe4jy77M0zEDYE88+2qDOSNN1FfSMFney6qB5ktp46Pw5xN+1ZsHtOCYof6+bfnw1qcjPZhRSddZGtfevF5jRo7kh+rPTe8ocjlM9jrklW3kLyTIeR37bH0IO/I1uwGeycucx8cuRtvG1iMMrTMQR2hwedM+RrUOoZK1wurxd08TMviQfD+Cp3OufY9HodWVa0p3eK2ikjz+4bH40vjuUanNFCkgOAbFdx7+WMKTEcjuAhRKSdbwfH2Y/rmVpSP1EpXf93O2rjqjqeSjLBBWJ7zYu/PGxBAHzz+NI+Uq3my1uWKtYIMzMrKh9eCDrG8uUuypLPTnMoUIWER+7bwJ99TPwm5MlDzhBSE1XvfKkPLabUhAok3eNfQOUkSS1VLEoQJQPQ77H540LeyCWOt4ZImBVbEabjzI2B0vUxlKazCvUsI8q9guIzuB7f7qcTUux5Sm71Z1RZVJJjOwG/jpiIyUSnJVjYrxZ/mB1qU0hmvg3n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Elementfull</div>
-                                                <div class="unlocked">5 Aug 2023</div>
-                                            </div>
-                                            <div class="description">Control over 50% of the area in 'Elemental Escalation'</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgQCBQf/xAAlEAABBAICAgEFAQAAAAAAAAABAgMEBQYRABITMSEHFCJBUZH/xAAYAQEAAwEAAAAAAAAAAAAAAAAABAUGB//EAB8RAAMAAgIDAQEAAAAAAAAAAAECAwARBCESIkGxUf/aAAwDAQACEQMRAD8AMZjll9Hyy5Zj3Vi0y3MdShCJCwlKQo6AG/gcufOXtVy3xk8hcxuOJbsBM1wvtskAhZHr0QSAdgHfMa+po7nMsoVkE77ZLUpfiHmS32JWrZ2fetD/AHi20cxWtjN2rcxqbPr2PGnrMR5JCOvTxr18K/E69b0OZm9nWhVSc6I/NjITkkwTob9R30Nd/uFGDl7tah85RIRMcjmW1AVNcD7jIBJWB69AkAnZA3yHDssvpGWUzMi6sXWXJjSVoXIWUqSVDYI38jjmrcxWyiuWrkxqFYWDHjX2mI8kdHXp40b+E/iNet6PCVhU0dNmWLqx+f8AdJdlI8o8yXOulp18j1vZ/wA4hZ2oFYnCc2NRSTzAOjr1HXR33+HNVQeF/wCqNiJLTbzZdkHq4kKHs/o8X5jHr28Ws1MwYjbgZJSpDKQQdj0dc5y8Lmty6dYQq593b7vXbKilSVE/zllne5HYV8iI7SLSh5PQqSyvY5Itx3ankMp6FnpN1YaAX6PmOsOj17mLVinoMRxwsjspbKSSdn2dcIX/AIWPqjXCM02y2HY56tpCR7H6HJKy9yOur48RqkWpDKegUplzZ5G0Lmyy6DYza59rT7XbTKglKUkf3iPHdaeRxMslKOzDRDff7n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Steal From The Poor</div>
-                                                <div class="unlocked">31 Jul 2023</div>
-                                            </div>
-                                            <div class="description">Steal the last gift in a players pile in 'Grifting Gifts'</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQMEAf/EACkQAAICAQMDAgcBAQAAAAAAAAECAwQFAAYRITFhE0EHEhQyYnGBkSL/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQRAQACAAUDBQEAAAAAAAAAAAECEQADITGRBBJBUWFxgfDR/9oADAMBAAIRAxEAPwAHdu6c5BunMQwZjIRwpblVESwwCgMeABz0GqYq7um5V+ut7hvY/Fg8G3ZsuA3hF55c+F/0az13rH4j5qa7WjtxQPbsejJ9rsgZgD/RrHl433NM17GZCa7OF60rJCzxKPaMD/llH48HxrdzOojFMoCJRckur8eg6buns454ypN5iq20X+4NfjCmVvbpp1frqm4b2QxZPAt1rLlV8OvPKN4Yf7qe0t05yfdOIisZjISQvbiV0ewxDAsOQRz1GsGIR9sTreyWQlpTlelGsQ08qn2kB5VVP5cnxrVYesvxHw01KtHUinkqWPRj+1C4ViB/Tpl9QSXKQkU1IKuvHouu5p7GDlSO3MFGyy/3Dr84INuOPe+a9aZIhMbUKvIeFDOGA5PsOT30TTr2cduChHbiaKQTxsvPZh8w6qexHka5n8Xkps5kJY6Np0ew7KyxEggseo1TGHO0RHGcbZsVUYOIJoWKqQeeVPdT+tQykkWUEbAT+P355MWOy5VISm7xO3Xs5HP346kTSuZ5GbjsB8x6sT0A8nS4txSb4w3ozJKIWqwl4zypZAoPB9xyO+jMmc7eEkYxtmvVdi5ghhYKSTzyx7sf3qeAxeShzmPlko2kRLCMzNEQAAw66RksSU0KEDjd+tjlw7KlURbbvH//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Move Quick</div>
-                                                <div class="unlocked">29 Jul 2023</div>
-                                            </div>
-                                            <div class="description">Survive in 'Breaking Blocks' for 60 seconds</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgABAwQHBf/EACoQAAEDAwQABAcBAAAAAAAAAAECAwQFBhEAEiExBxQyohNBQ1FhkbGy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBv/EACIRAAIBAwQCAwAAAAAAAAAAAAECAwAEQRESImETMSFCUf/aAAwDAQACEQMRAD8AZxu7rguK6E0Kty0eQmKSmMZSkApKlYCecDG3o41DR6Tf9RhPTHa1OhxGkOKK3piipWzOQEgk9pI5xrteGkvZeN5nPqmA+9eiKmzcWbJTn6Ur/TmsncXEqyMoOa1TXPj4BR9cfooDrFIv+nQmZjVanTIjqG1BbMxQUnfjAKSQe1AcZ1M23d1v3Fa6a7W5a/PzEpVGEpSwEhSchXODnd0M6IpNZmOU1cJ1lCYbMaEtt0epRKm+Dz+Ffr5cZo+JcvfeNmHPpmE+9GnBPMZFVjmmLjfwZV9HHXxQ/Ysv4d1XWc+qWD716uMyJ6qRujym0Qw1IDjSk5Kjuc5B+X7+32wc/W/cFLuSpyabCkLaekKUQWCpDg3HH97GlIq10Lg+Uj02RHaIUFFLClKO4knkjjvGq5bVmkJA91Ew3HUEYz1WhuuOoohfeeQsuMxUJCG9u1KVgjJycnn8daoX1L+JdVqHOdssn3o0FsVa50QvKSKbIkNAJCSphSVDaQRyO+tJD9wVS5KZJqUKQhpmQlSQGClDY3DP87OiK1ZZAxFCgqSxIznrSv/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Raider</div>
-                                                <div class="unlocked">22 Jan 2023</div>
-                                            </div>
-                                            <div class="description">Find the treasure in 'Sandy Search'</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+8 others...</div>
+                                            0 / 0 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
