@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="484" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="650" class="">
     <defs>
         <style/>
     </defs>
@@ -147,15 +147,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABgEFBwgAAwQC/8QAMRAAAQMDAwIEBAUFAAAAAAAAAQIDBAAFEQYSIQcxCBMiQRRCUWEjMnGBkRUzQ1Ni/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAIBEAAgIDAAMAAwAAAAAAAAAAAAIBEQMEMRITIQVBYf/aAAwDAQACEQMRAD8AkbcoN+jkHuKQgIxj1IPcCs+fejueNtCPUHWkTSVtWlJDlxcHpbzmmqrKf0Us+P4FE6fHtzKnZMhuO0O+8+1Bdx6paYhKU2JqJCfmCDURLZu+qJRuF/lOoYVylpCikYrm1TaoMCyuBlDaVqHpKgCa3Lov6vNuGGd7HOxCJ0mCF1Y0xIWELlpjK9lrORijO03W23dkSLRKRIx3Uk8GgHwx6R09qrSkpm9RWn3Qo4PAV3+tPetehU6yuLu/T6c62616hEUoqCvtjtXPj4b5+hgkkEnG0q4INYAB+T+2jlVAvT7XBvbq7Te0+Reo52qQRjJHHajoZBWB+XsoUTFhE0c9ymM2+3SJbgIaYTvzmq5R1vao1JLvNyBUyFFLST2wDUudaJioWh5rba8NvJKQofWocsd7ttvsjTSn0l3GcZ98V0NFcXs9jnO/JPmnD68fZNmqtRJtyPhYWFKPt3xUfzJr8twuSHFkj5SeK83B8yJjjqlZUVEppIUZ+W/5LKdzyuwqW5uZMuTxXg9TTx62OGnv7k22q7z7XID1smyIy0Hcny3ClJP3Aq0/QPrg/d5LFh1W4j4xZCGXQNufpmqsXCC/b3NstopKhjbWiJJdt8tmZEUpElpQUnnkVhZaNqtfC3XiT0SYfw+t9ONeVPhK3yC2MJUgdiQK7dK3pq/2GPPZcTvLYDivbdjmupzqrom+dNPgLrfYqZUiIGXWiTu3ACo76Dz/ADLJKhtKSuOxJcUnjlSM8VXZOhx63RFyNEyCgZS0N2fYUxaM8P0fU+lI92iXZoF1HIwTggdqk+92xu8WaXAcBQzIRtVu9qYvDdqs2a4zdCXo+S7GcU7FUvjzAo8D+KKoXSqd2t7lsu0uE6ClcZ1SCFdyAcZpLXOctsxElohZScpxVofEd0ek3SavUml45dkKTh5hsfT3xVV5bD0J5UeQ0tp5JwoKHY1YrURZbHC93Z28vb1gICeefam9ptb60oZHmOKISEjur9KRptyS8G20lT6vSlKR+c/SrIeHzovNducXUWqYqo6WFBbLCxjd9yKbNYIlHl3w7QoejlXmdcUJCYyZBTggpJAOCf3rR0BhKi2iU8j8Rpbq2gofQGpH8S2tBbrGNKWZSV3O6DyFNJ5KEdwftXFoWxI07piJBScgpDij/wBkciq6JyPxyQpJO5B7EUDdRNGKvCmbtZlqjXmMdyFJOCrHbtR0NobQ0n0Ng53GsyQtRKs8YBFKJsJigc0B10TGCLLr+OqDNb/DDyxhKwOAaXxBK0td+nki5Wb4ByQkFQcZQATXXftOWvUDJYusVtRP+RKQFfzQHcOjlseCm4k2W0x/pW8SD+1EhA7eFpOnIminbhfBCS6h1WFyEAkc+2aK9f8AXm228OWzRzRuV0UNrRa5Qk/pUdW/ozb2fTImy1RxyWWnimjnTmkrJp5I/psZC1n5nAFLH704CwU0Do+a7dV6n1WpTl1eO9KHDnb9gKknJ9Q9jyftSEqUfUdxTzx7VgOMpRyhzgn6U5mg6f/Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAwYABQEEBwgC/8QAMRAAAQMDAgMHAQkBAAAAAAAAAQACAwQFERIhBkFRExUiMVJhkRQHFyMkJTM0QnGS/8QAGgEAAQUBAAAAAAAAAAAAAAAABAABAgMFBv/EACoRAAEDAgMHBAMAAAAAAAAAAAEAAgMEEQUSYRMUITFBkaEGIlGBcbHB/9oADAMBAAIRAxEAPwDzPd7nNdKkSSgAgbbLQLnHOV96dW6z2ftsphl1EuAQtTlNTkbswp2YSyJZwg6nKanIugKaAn2aWcIYc4DIW1b66Wgq2Tx4Lh7IPZ9BssFmNxyTFiWYI8LdQ0lGEZxjkpSsyzPNWNFRvrKhsEYOpxRTWhrMzuSGlkDLkra4e4Xrr8XfSNwxm+SFet+zC7ud4Xs/5XR+G6SCzW2OGEgSYy9Hku0raoNaTgrlZscl2hETRZchN6hqTK4QtFh8rmf3WXzq0joGpMuFDLb6uSlqI3MmYcZIXoyS5TtaXRudkDql24R2xkz7hcqQzHG+FOkxyRz7TNuNOalR+oahzrTMBHS3O64hHTyyn8OJzx7BStop6WMfUxOi1+WpdYl4+tVKHMt1nYzGwL2gpI4z4ln4ha3t4I4ms8tDAFtRyVEh90WVup49lu0tbUzSAPiyt1PHsq/hykjqS5050wM3f/i6BY5aG1yQ1UlsmNK46e0JGw6pM4Wic6knjOAyUaSTyTBBBX1kcdBNUMZSA7ux5hDYlHMcoIOS2v8AOqExEh8jmuPD8nl9cynxnElna9zp4JIyBluXeYQqfiOzSSl01PJG3OxLvNUdXYaclrhdqY+ENGQdsIBsFMAP1SnPUYKwhTs6g9isUQ01rknymmLiq0a5GPhe1uPC8nZ3stet4ks7qWX8lK8EYjGoeM9AqIcP04a3F1pi4HI28kC52SOOgxT3KCV7DraGjfKcUzbiwPYp209Lm4E+VX3G300uGTUUtLNLvG5x23SZcojG2RrjnSSNuaby+tqqiGa4P/j/ALbOZKoL1SStilmeMAkn/F1WFw1BheZAbBblE8seGuPn9InDMrW0RBdzKvWzNLd3HHsUnRGe0zmmrIywkZ3W426R6ca1v0lbGIg1xHBXVVG50hI6pjL4/UflY1R9T8pc71j9az3rH60TvsOnhD7k9MWpg/sflZEjBzPylzvWP1qd6xetLfYdPCbc3/CZhO0eWT7lVN9na+3yjPJVxuse/jWtPUSVzm0tK0ve/bZVVNezZFoI+lfT0bg8Gy//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Crosshair V2</div>
+                                <div class="name">ShellShock Live</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Utilities
+                                        Action, Casual, Indie, Massively Multiplayer, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        14 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -171,7 +171,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Jan 2024
+                                        Last played on 20 Jan 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -180,7 +180,52 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 0 achievements unlocked
+                                            15 / 63 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcEBQn/xAAoEAABAwMEAQMFAQAAAAAAAAABAgMEBQYRABIhMRMHCBQyQWFxkSL/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABwRAQACAwEBAQAAAAAAAAAAAAECEQADMXEiIf/aAAwDAQACEQMRAD8AM0KGXVDjVxsf2/XHcFObmyTHpcZxIU38rcXFg9HYOQP3jXJ9utvRa56kUxmc2lyOyFylNkZCygZSD+N2P5pjR7zoEi4nKExUmV1VBIUwM/UO0g4wSPuAc6rkOsqJb3IhNjc2jhhPvj2/XHb9OcmxjHqkZtJU58XcHEAdnYeSP1nUOnQy0o8a9IZF50CPcTdCfqTKKqsgJYOfqPSScYBP2BOdDn3FW/EofqRVGIKEtx3giUltIwEFYyoD8bs/3SI7CpFPcKa24NnHM/ohdsSzr1i1Se067G8a2XPFgqSFAf6APeMdaS1FsWhP1dy97XlLqS3PJKiRvIEsl9QPasZA3E8HrQojuFsg6pdteqtaodAiUmD8dMeMp9SVEKCleVJSc4UAcZyOODjvVTCSXBp4+ZNYP2WH6e4jK1YtCYq7d73RKXTXG/HKlxg4FMh9IHSsZI3AcDvRp9b7tiXjesuqQGnW4vjQy35cBSgkEbiPtnPWtVy+qtartAl0md8dUeSphSlAK3JLSQkbcqI5wCeOTnrU0kuFwnQhILm28PMWSfgo6+5//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Deathmatch Veteran</div>
+                                                <div class="unlocked">26 Jul 2022</div>
+                                            </div>
+                                            <div class="description">Win 25 Deathmatch rounds</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABAIDBgcBBQj/xAAlEAABAwQCAgIDAQAAAAAAAAABAgMFBAYRIQBBBzES4RMiUXH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAEC/8QAHREAAgICAwEAAAAAAAAAAAAAAAECIQMREzFBEv/aAAwDAQACEQMRAD8A5XxzIQSePhrPXDKal+RyRxo4m2DLKorYMxTFWyOTS6vHchbFnQ8zMkU1TKOqDFCoYcSyE5/IoexkkDGP5n3jlm2XakV46gKe9L9pw7XOftEQq9LdWNhxwH0Bo79aJ3gcqi/Lqk7vnaiWmqgvVLukpGkNI6QgdJH2d8TjqguR7s0tNT5IJHL0sy1orx7A095X5Th2tcHziIZWluq9hxwH0Bo79aJ3gcgPjScgLbljJzsS/LPsD5UlOFpSyHOlOZ2cHGAP93rgF53XJXZN1ErMvl2pd0ANJbT0hI6SPs75V8brwncve2Ivm65O7JyolJl8u1LmkpGkNp6QkdJH2d8ijmVHfH1kqPEfEcxrdI6hVvs//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Bouncy</div>
+                                                <div class="unlocked">20 Jan 2022</div>
+                                            </div>
+                                            <div class="description">Land 5 Bumper Skill Shots</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAYF/8QAKBAAAgEDBAIBBAMBAAAAAAAAAQIDBAURAAYSIRMxBxRBUWEyQnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAB/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACEhEhA//aAAwDAQACEQMRAD8ALsMJcjA1Z7T+PdwbpSdrHaqirWBObsgAAGcYBOAT+h3rCtMHOZRgnv0Penft7blE0ke3G+qis1ooafw0RmZDK0nItJIVILYIxj1nl+sKwUr1g7Xb2yQSbt2RedrVn0t8t81HMVDAOAVIIyMMMg/961JyxFGIOnT8m2Kmm2xuixSGrqrfSW5brSp5S70sqlwFDNklDxzgnocsfbAouEPGQ9amhavSbT6NbZZqWGCSerhggRpJpXCIijtmJwAP9OmluCS1bF2RYG3NV173WnhWkSoopSs7tjLLyz2gx/bI6H30KbZWT2+qiqaOaSCoiYPHLGxVkYeiCPR1Q33el4v1LboLvWy1S0ETRQtISWwW5EsT7PoZ/AGl41kXwhVzpD1imv8AS0W9Phy7z7Lmq3nmbzT+Zy09Q8f8o5Dkkkr6GcesdHQyuQ5OTqktu8bxarVWW+2189NTVckcsnicq3JM8SCOx77/ADgam6mQyuzOSzMckk+zqxka96SHqW5x5P/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Great Success</div>
+                                                <div class="unlocked">27 Dec 2021</div>
+                                            </div>
+                                            <div class="description">Win 20 rounds</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcBAwUI/8QAKxAAAQMDAQgBBAMAAAAAAAAAAQIDBAUGEQAHCBIhMUFhcYETFSIzUVOC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQDBf/EABsRAQABBQEAAAAAAAAAAAAAAAERAAIDITFB/9oADAMBAAIRAxEAPwDminwHJLzbbTanHFqCUpSCSok4AAHU6eVH2AyWKYzNvS4aXbTboyhmQoKd+QVJAPgE6s3Z6VCjzrguuoMpebt+CZDSD/YQog+wlCgPesWCmbtMu6X91qZTWZbS1wkuDLbjoGUsAk/gCMgeR51dbj74Fc+/Lz1eVo3DsEnppL1StCs0+5orQytEMgOj0kEgnxnPg6R8yIppagpJBBwQRjGnG1UJGzK/CaFUzKdglKJhQOFp1Q/a1jJ4kg5TxHuMjGjN5ugwoV5RatTGw3GrcNM4oAxhw8lH5/E+ydL8Xj7THl6mo7Re7dWIKKrWLZqroai3DEMVKz2cAUEj2QtWPOP51nOxaxstuWamZT0ipBlxmFNXkIbKuX12uylYzjPQnnz0rIj6mlAgkEcwR2047e263BCprcCsxafXozYwkz0ZWPah19kZ86oLUVCR6VhdDAsJxoWm0ap7Vb0S7DpyI6n+D7hJaB+kkgALdPYKV14R1Oo3kbhhVe8mYFKWlyDRoyYKFpOQpQOVYPfHJP8Ak6uuvbhcNWpi6bTWoVDgrBStEBBSpQPUcXb4A0n5DhWdEVl1HClsGjc9a//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Double Damage</div>
+                                                <div class="unlocked">27 Dec 2021</div>
+                                            </div>
+                                            <div class="description">Land 5 Buff Skill Shots</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
