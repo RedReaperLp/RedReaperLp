@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -180,7 +180,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 34 achievements unlocked
+                                            9 / 34 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUABAYH/8QAMxAAAQMCBQICBwkBAAAAAAAAAQIDBAURAAYHEiETMSJRCBQXQWGB0hUkMkJVhJSx0fD/xAAYAQACAwAAAAAAAAAAAAAAAAACBQMEBv/EACMRAAEEAQMFAQEAAAAAAAAAAAECAwQRABIhMUFhgZHBBfH/2gAMAwEAAhEDEQA/AMP6PWntDzXSaxOzFBVLQ2+2wx41thJ2kq5SoX7p493zx1v2LZDPahE/unvrwX0U6O2nSjqFCAqZJedJ38gBQSFfD8BHy+OL1fZVT647JnU6RVGj1UNsxkpddc3JT0wlsqBGyxUbcEG574w0tmXKnkJkFtCiQNzyk6aABA3599cZtrbQ1uiyPuLPYtkP9BP8p768ClaPafxor0h2hHptIU4q0p4myRc/n8hg1FafqP2c3Fpkunz2GNjqpbaY63FlY2vpAUSpNgU2HBPBxr9aHWaPpRXZKVIH3RxDauptKlODYPmLj+sVX4M9p4tIlKVVXuRVkCufP9GGl1pSbLYHjEWQok6laVUaPSksipJpiFNCSkpQHVJ3eIDyKv8Acc/yBImU3PlRo+ZUS2qrUIq3Jkx97el8hxtd2wBYI2JUOO4FjYADDmPrjkWOw0yy9UEtNIShA9UJskCwHfyGKFW1fyDUX4coyJzc6E4XI0j1DcWyQQoWJsUqBIKTwcH+U5NjOuJejqKHCbOk2L+dvWC+GlpBSvcZNWFphv0DLMFdQqkouPOsPx3ek+l3a0lLnAsfGlRI4Fxfgi+B62T6zG0RaYzOqOKvJksx3lR/ElwAlYJ9wVZAvbi4+OJT9WshRqo5U5EmY/UFNJjodFNDQaaBJ2ISk2SCSSfMnGB181Io2cqbSIdBXIWhh5x54vNFux2gJsL891f8cMSZEmVHjhkhtBB1FJG4HS+BfnvkI0IQperc9M//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Max Out Fury Load</div>
+                                                <div class="unlocked">27 Sept 2024</div>
+                                            </div>
+                                            <div class="description">Reach Max Level for One of your Vehicles (Main Game)</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -214,18 +224,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgT/xAAvEAABAwMEAQEHAwUAAAAAAAABAgMEBQYRAAcSITETFCIyQVFhgQgjcTNCgpLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFBv/EACURAAICAgAGAQUAAAAAAAAAAAECAxEABAUSEyExUSJBYXGR4f/aAAwDAQACEQMRAD8AR/09be0O66VWJ1xQVS0NvtsMDmtsJPEqV2lQz5T18vzp3n2ZtLEnogIp/ttSWrgmHBffkPE/TihRx+dS6mVyZRNsqPSabJXDTVXJEuW4jypHMNJ78j+mrIHkY+uqBP3BotAobFvbQU15uoyQlmTVlx+Mh0nCfczk5UT5OAM9DPY5wcL2NzYeeSdlS6CqSPHb8CyPWV9dI0CBQT7OavK2drrSihNTt501hYy3S2prinkg+C6Qspb/AIyT9tH6XtTZL1us1KqWuqC8Y/rvR/bHllrAJI+IZOB/zXBZGydz02rwrjuJynoSy8H3Yzyi+8sn5k/DyyQc5PenzdWcKdtvcchRAPsTjYPLj7yxwGD9cq1lcdlfVli0dZ2DMQS3OxPc1XmsfVUSK0rgUPpQyJ3vachiy7DlgelFRT248lxYCfRWs+oCof5KH8j76XqZTDAEh6JUGnJaC0WihJABCuee8eClI/JPy1U6hu7txUaMaVNE56AUJb9JUVXhOOPfLORgd+dI8+pbQzHCszLjbyc8QgqA/wBs6s4fvbSxdPYicUSey35N/wAwpYoy1ow/eN83fC7LnCbbbjUmkSpyhGVO5rHp58qTk4H2PfkY0K3JutVR2TnR3VzS83VG6YtyYgB57h+4VLSAOB93x2RjBJ70ATM2gwA5NuRwAYAUjwPwNCN37yoNat+j0m2pNRlMx3nHnnJwPqZ4JQgZ/u6B7PfXnV0zpvSxDosGVgeYrVV38/f1hqDErfIUR7z/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>First Autograph</div>
-                                                <div class="unlocked">21 Sept 2024</div>
-                                            </div>
-                                            <div class="description">Earn enough followers to reach Popular level</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
