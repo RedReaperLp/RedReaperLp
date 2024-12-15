@@ -180,7 +180,37 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 38 achievements unlocked
+                                            12 / 38 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAEE/8QALBAAAQQABQIEBwEBAAAAAAAAAgEDBAUABgcRIRNBEjGBwRQVIiNRUnEzU//EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQIE/8QAIREAAQMFAAIDAAAAAAAAAAAAAQIDBAAREjFBBSEUkbH/2gAMAwEAAhEDEQA/AAGquotzLzLKr6uVIrYcB42PsOKJumK7KRKnbjhPfC9W2Od7Frqxre26P/RyYQCv8VV5xllXhZ6pW8d1N2vmEgzT8ihqu3rhuzJCSXSuRgJloeNkM/APHkiL27YTwYEVmM2hDY0OA7oy1qKiSaTLO4znWEPxdxbCJJuJjLMhX+Ki4ZtKtRbmJmWLX2kqRZQ57wMffcUzaMl2QhVe3PKe+CGRqspD1TVxkakm1JB9/pr1G2W0Xc/GXlyniHbv4tvLAGyoWst61QK+Km0VLGM8wP6gZiqD6cp6YxzhBeLsFTacsCr0Bz8OiKujMWWD2hllYBWapW8h1dmfmEgHF/Akapv6eeKW001H0/nZiiR4Uy4WQ42LktnrtxgElTZB5QfpRF8XdSTfjCpqtp3cxMyyrCsiyLKHYPG+isNqZtGS7qJInbnhffAbLI5+y0bq09bcMtu/6NHCI2z7ciqbeWBPONeQgNfHdSLYkgmwNtpPR9cqQC2s5Cr/AKcWT8zJkebZhEjufURmw10WlFOUJE4TbbzVON0XbEMsr5rMmtcCwirvFWxjMsl+wAQohevK+uNZjm6jZii/C2UC3+E4RWGYJNAW35QU5/i47tKdO7mZmWLYWkWRXQ4DwPqr7agbpiu6CKL245X3wriQI3i0yJr7iclAgBJuADwaJOhqirWp3FCQfVf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Promote Synergy</div>
+                                                <div class="unlocked">15 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Provide assisted reload for a teammate.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgADBwX/xAAnEAACAQMDAwMFAAAAAAAAAAABAwIEBQYAERITMUEhI5EHFBVhgf/EABgBAQADAQAAAAAAAAAAAAAAAAABAwQG/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQIDEQAEIQUxQRMiUWFxof/aAAwDAQACEQMRAD8A5mfZnkOQZjVWaw1TbdT0DGL9txXJsoHYykR++w8d9An5TlVO6aX3y7rbA8ZRlVT3B+dW5KSPqTdeNR9qTdWjrk7dMFpBl/BrXKXHLJUvudvjSW27ZEuuYtX5aU48kQEfMI7egO+wHn11yxcsdKtWklmZSDgD1JJP3Oa097qjmseRlOVVDoJRfLvNszxjGNVPcn509wHM8hx/MaWzX6qbcqevYtfuOLJKlI7RlEn99x576SVWO2OmfbLfKkttpyJletbfxMpy4omJeZx29QN9iPHprI8aJP1JtXKo+6Iuqh1wd+oA0AS/o0Dljqtq6kMxCScge4II+YzTvbUM1RmaWPzy+qRCTGzuLxGMRuSeodOrfnbsaoLQ25wfWX1NVU1FUl4MDODo8QeYBG44jxq3P8NyDHsxqrzYaVtxp69jGe0kskqUzvKMoj1237Hz20Afi+UVDpufY7uxszylKVLPcn41e2qw1K0a6iwUgeQDtBB5HvbioIW2swKdV+dOyWgvDbbB9HfXVVNUUqUAzMIJjxJ5kAbnc+NBcMSxGeWJT4SW2FxQJRkNiD1BqIxfKKd8HIsd3W2B5RlGlnuD8af4BhuQZDmNLeb9Stt1PQMWz3Ulcmygd4xjE+vfufHbRxVhpto701gJI8gnaAByf3mgDjixIr//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Nothing is bigger than Freedom</div>
+                                                <div class="unlocked">15 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Defeat a Hulk.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAAH/xAAnEAABAwMCBgMBAQAAAAAAAAABAgMEBQYRACEHEyIjMUFRgcESMv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwX/xAAeEQACAgIDAQEAAAAAAAAAAAABAgQRAyEAElExgf/aAAwDAQACEQMRAD8AQcVeItZl3LKp9LlSKbDp7y2Ow4ULdWk4KlEetth+6mWK9c2GnJty1CKysg9yYsLUn5CRk+PeNcuRnF8XLLdaK2Y0yQ5gp6VL5hCUn7I20XSbNlVN2JUX58KZFkh91wsvFTg5bSlqC04H87hI+xrgx8EGFDx9kUDr5dmrP7zdmd3O+Cv165sOuQrlqEplBJ7cxZWlPyUnB8e8apuFXEWsxLli0+qSpFSh1B5DHfcK1tLUcBSSfW+4/dJKzZsmlvzKjHnwocWMGXWy88UuHmNJWkITglW5UPo6DttnN8W1LaaKGZMyO5gJ6Ur5gCkj7B20kYIM6Hk6opHXyqNWP3hWdHG+a5Hs3xcsR10oZkzJDfUrpSvmEpUfsDfRlk1yFaVPuB2awt2sSmTAYj+OWlQP9rUfQ/yBjc4+N9OuK3DusxLllVCmRZFSh1B5b+WGitbS1HJSoD1vsf3UyxQrmIabm21UZTKCB3IThWlPwFDB8es6uDPDnQUQ5B1IW90dVr36N8Mro5NcMviuwrvgW+9CYW1WIzIgvx/PMSkD+FpPsf6BzuM/G+g7beAvi2ojTpWzGmR2+lXSpfMBUofZO+s/Q7mw63CtqoxWVkjtwnAtSfgqOT49Z1TcKeHdZl3LFqFTiyKbDp7yH8vtFC3VpOQlIPrbc/upmzwoEF0GQdQDW7O7179OuFV3cGuf/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Bot Scrapper</div>
+                                                <div class="unlocked">15 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Play 1 Bot Mission.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -194,38 +224,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABgMEBf/EADAQAAEEAAQCCAUFAAAAAAAAAAECAwQFAAYRIQcSExQVIzJBYcEXMVGBkTZxdbPw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwb/xAAeEQEAAQQCAwAAAAAAAAAAAAABAgADBBEhQQVxgf/aAAwDAQACEQMRAD8AwOKvEW5l5llV9XKkVsOA8tjuHChbq0nQqUR5bbD3wRi5kzdL5uq3F09y+Lo5DitP30OK+ev1tmD+Qf8A7DhjwlywmfCk2r/aJQZLcNAhqCPmpJXqSfoQAMZ+FrB8bgQuTtmgOhVfdXrO5NN0Xk5izhFQFyba8ZQToC4+4kE/Tc4W8KuItzEzLFr7SVIsoc95DHfuFa2lqOgUkny33HvifiPQtVUZmwIsjBekOQJCZakrIAUotqSQfEnQ/wCOAmS0BvPdEgLS4E2LIC0/JXeDcYJ28HyWBOcLZpHoET1TGduYbqzmbT4g3vN1Tl7Qf1614NOkP3/GH2VZjNfFJrojc2vddbeKI0lTKW3UEc3LqRqFAD1BGMvirw7uYeZZVhVxZFjDsHlvgsNla2lqOpSoDy32Pvg1Hqc4suQ1Jprjo4pBbaEVwJGnoB577+uJWb2Fn4MIymMUO9Oz6JzSYztzeKdZqmM2EUGxiIhV7TzjwRJkqeS46snl5tDsEgn1JOAGWdPiDRcnVOXtBjTqvg06Qff84lkVOcX3JilU1x0cokuNGKspOvoR5bb+mEvCrh3czMyxbC0iyK6HXvIfJfbKFurSdQlIPltuffBevYWBgzjGYRB727fqvNEYznM4r//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Hot Potato!</div>
-                                                <div class="unlocked">15 Dec 2024</div>
-                                            </div>
-                                            <div class="description">Throw back a live grenade.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEA//EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQFBhEAEiEHMUETFFGRYXEiI8H/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAeEQACAgMBAQEBAAAAAAAAAAABAgQRACExAxNRQf/aAAwDAQACEQMRAD8AG6k9QanPu2TTYs6XSqfAdcZzGWQt1aSQVKI8ZHA8D86nqjcchlt32l43A46E5Qha3AFH4JyMaKu+S5Ev2vuskBfvpCeRnus6oYtFvm56cHokNp+JJaCwUllGUKJAPJyOUn61hRo8CFE8/oFVaGzXSP05dm9Hc1ZzBTrjmuxCudd1eZd252odcUM5P5+APvVP056gToF2xaY7UZlZptQcQyVSyfUacUcBSSSeO2R5/eg2rfvyiQ3m0USSlhpB3KDKHAEjJyCCc9zoa050ioX/AG+9KWlTnvmE5SkJ43jwNJUeBMi+oQKwo8rWrHOYRnRhd5zu6M5Lv2vtNbd/vpCv5HA4WdUMas3rbFO9GHU4zMWM0EBKS0ohCSSAMjJ5UfvSvUnp7U4F2SalDgSavT57rj22OglbS1HJSoDxk8Hz+9T1QtyY824Ilj1hlwpwhZS4dp+cY50jSYE2J5/Qqy0NGugfh/uGX0RzVjNDNfvmtQ3nBcD3ouoJWgvpbBBJBHAGOx0PacF6n3/b7Mj09/vmFf1rCxjePI1up9t1BmKUTbMrEl3bjeGlp5yee3wR9ap+nPT+fPu2LU36XJolOp7iHtkjJW84k5ATuA47ZP8AukqTAhxfUoVUUeVvVDQ7hFd2F3n/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Get some!</div>
-                                                <div class="unlocked">15 Dec 2024</div>
-                                            </div>
-                                            <div class="description">Fire at least 150 rounds in one burst, killing at least 10 enemies.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUDBP/EACoQAAEEAQQABQQDAQAAAAAAAAECAwQFEQAGByESMUGBwRMUIiMVUVJh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECBAb/xAAiEQABAwQBBQEAAAAAAAAAAAABAgMRAAQFMUESEyEiYVH/2gAMAwEAAhEDEQA/AIHKvItzL3LKr6uVIrYcB5bH6HChbq0nBUoj066Hzo9ty43Pe2jUFvdUyI470hcmW6EKV/nIzj3wOvPW9xSxbbeO5fq2AjOt2L/4FGcgrPY7024gp0RNyu15sXZkFyI6+WErUhCXAtseLAV2cHGuZcatsfi+422PVIOhOt+QZrSCpx2CeaBbjuNz0Vo7Bc3VMluNdLXGlulCVf5ycZ9sjvz0h4q5FuYm5YtfaSpFlDnvIY/e4VraWo4Ckk+nfY+dUuUaz+Q3S/XKs3YkCO224iOpRWgqJWPFgnzx6/8AdE6eli1O8dtfSsBJdcsWPwCMYAWOz3ppYt77GdbrYlSZ0PyZ8ARR1KQ7APNT9yWUmq5Bv5MNYS599IScjIIKz0Rprw5uxUjeubqQ034ojjLAS2crWpaD4QBkk4ST7a4+VuO7mJuWVYVkWRZQ7B5b4LDZWtpajkpUB6d9H50Rr9tbmhz40lO37cll1LmBGcTnBBIyB6+Xvq+7aZHGBoOD2TGxMx9+0oW25MaNMOVdzuwt9S1VLzSwppKHQpGSlSSo+Eg4IP5eR/saKbbspNryDQSZiwpz76OkYGAAFjoDWdjtrcsywkyTt+3H1nVuYVGcUQCSQM49B17aW8U8d3MvcsWws4sith17yHyX2yhbq0nISkH067PzqlP2lhjS2pweqY2J1HFHStxyY5r/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Democracy ain't done with you yet</div>
-                                                <div class="unlocked">15 Dec 2024</div>
-                                            </div>
-                                            <div class="description">Heal another player using stims.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
