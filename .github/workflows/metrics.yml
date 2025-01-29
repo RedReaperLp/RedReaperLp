@@ -17,16 +17,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Recently Played Game
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.steam.svg
-          token: NOT_NEEDED
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "76561199017122818"
-          plugin_steam_sections: player, most-played, recently-played 
-          plugin_steam_achievements_limit: 4
+      # - name: Recently Played Game
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.steam.svg
+      #     token: NOT_NEEDED
+      #     plugin_steam: yes
+      #     plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+      #     plugin_steam_user: "76561199017122818"
+      #     plugin_steam_sections: player, most-played, recently-played 
+      #     plugin_steam_achievements_limit: 4
       - name: Most used Language[s]
         uses: lowlighter/metrics@latest
         with: 
