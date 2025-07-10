@@ -169,7 +169,6 @@ Learn more:
 
 ## 📫 Contact
 
-- ✉️ redreaperlp@protonmail.com  
 - 🔗 [github.com/RedReaperLp](https://github.com/RedReaperLp)
 
 ---
