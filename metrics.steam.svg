@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="659" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="652" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            627 hours played
+                            629 hours played
                         </div>
                     </section>
                 </div>
@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        10 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -171,7 +171,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 21 Mar 2026
+                                        Last played on 23 Mar 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -180,7 +180,37 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 66 achievements unlocked
+                                            13 / 66 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYDBQECCP/EACsQAAICAQMDAAoDAAAAAAAAAAECAwQFABEhBhIxExQiMzVBcXSBtBVRkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDn3MZSxRuV6lKCiIxVrFVNGF2JaFCTuVJJJJP50REnU8oJGLrJsN9pMfXQ7fRkGj8RkKmN6tmmsypXnbERR1bL+IJjXj2fgHY9vcAfkTqetDNnjHF03fka6qxQlZECrbnYsWKlueAB55J+Q40FU8XVCx964urIB59Fj68h/wAVSdD4XJ2L16xTvV6JjNWyWX1GFGDLC5HIUEEEA/jVvfrz4uJX6gvObMnpa47IwVrTIUI3K88gnxyDt51FayEOS6rjmjkWewMVOliwpJE0gry+1ueSe3tBJ8kaBc6q+LR/Z1f149NM6HCY6riKsdp7COlydzXPbI7opAUg7gKNtiDyS301TZrEWMjags1JqDwtUrgFr0KEEQopBBcEEEEcjWPUeoBEkYyMARAAoGVhGwHG3vNAxQqOo8TZxU6ZBrKh7kTpW9mN0Q9xclizBgOSTxsNv60n9JfF3+zt/ryaNWhn1jdFyMAVwQw/lYeQfI95rfB4ixjrk1q5NQSFKllSVvQud2gdQAA5JJJA4Gg//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>All Secrets Safe</div>
+                                                <div class="unlocked">23 Mar 2026</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAQf/xAAtEAACAgEDAwEFCQAAAAAAAAABAgMEBQARIQYSMRMHQZGy0hUiUVJxdaGiwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDwDJ5C1VuwU6FeiIxVrFVNGFyS0KMSSVJJJJPOuGxnu0lKdRwPJXGwcf01XBD63VlWMAFnr0o1B8EtDGP91f1j1JcwWdlx2KasIa59Nia6t6hBIJO4Pnb4aDLyZzJRsVkhoKwO2xx8G/yasweVnyNyarchoPC1SyxC0oVIKwuwIIUEEEA8fhpTpsTz9QRyzlGklslGj7QEJ87ge4edM9VYKLF9SU7sDKVv4+45C/mWu+/zD4aDLyTmv1bSlD9nZDSfc+7aGM76Y9oGDr5POPlMRlMdJDbPqPG84RoXPJHPkb78jQmXxdm/ahs0pqDRPUrqC16FCCIUUgguCCCCOdR/YWU229aht+4wfXoEcHkmpZZmsSIzQOXVlb7pOxHB9450rez4zGYp1lPeKdG8DJvv3M0D7/wo1lj07kSdzJjz+uRr/Xq7B4ixjrk1q5NQSFalkErehY7tA6gABySSSBwNB//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The False Idol</div>
+                                                <div class="unlocked">23 Mar 2026</div>
+                                            </div>
+                                            <div class="description">Complete ‘All Gods Burn’ at C+ on 'Standard' difficulty or higher</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQMI/8QAKxAAAQQBAwMCBQUAAAAAAAAAAQIDBAURAAYhEjFREyIHFEFhcTJCgaGi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOe7q1fr5TMaIzBQymLHICoTKiSWUKJJKSSSSTzqh+GdLeb/ALeRArnqaKphn1lOSILOO4AAAbJzk6ktyNreumW2x1LXFipA8ksN6f7W+WTW2TVfdGvlNMqceKepKpTaRkpSoEAcn2p+pGTjQUW9NuubekpjM3NRIk4Un01VjIKlpGSB7OARnBPHHfUZRWj9jOdjS2YC2VxZJIEJlJylhagQQkEEEA8eNHm+itxxXgmbGddUtiZJSUyo5UnoUP1FJTzkfcZ40o2/FchbkkRnhhxqNLScfaO5zoMXjgbv2VE4zDjJz4zGQM/3oaq9OO64+XlMuoA9NWOx7KH58aZXVRJsZTEmI7BWyuLHAJnMpOQyhJBBWCCCCORoVuhs0HKVwQfIsY/P+9AwoNqSb+TBYr2n1yHXC37/AN/PCgPpgd857Z40wuY7MP4mWkOOtK0xY0mOpSTkFSIq0q5/IOt9PcbnpIL7FOusivPI6FyhPjqeCfCVFft/jSSkqpUCe9LnPQUtJiyepXzzKySplYAwFkkkkDjzoP/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Smile, You’re On Camera!</div>
+                                                <div class="unlocked">23 Mar 2026</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -194,38 +224,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYDBwAFCP/EADEQAAICAQMCAgYLAQAAAAAAAAECAwQFABEhBhIxURUiNXS00gcTFBYjMjRBU5GVwv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDnzNZWfHWoa1SGgkK1K5AalCxJaFGJJKkkkknnQH3jvfx4/wDz4Pk1nVftWP3Sr8PHpw6I6Bo53FU7Fi9IbVl3IhiACrGg53Yn85O+w8gdArT5jKwQwSzVqSRzqWjZsdAO4A7bj1NE4PKz5G5NWtw0HhapZYgUoVIKwuwIIUEEEA8asvrL6O5snQMkV+COepVeeOCRCrTnu55/bhdgOPDy1UvSXtd/c7Xw8mgKziQNnIhYLBPslXftAJ/Tp56YOlr/AKNhMdacIrN37d/aQ23iGB4O39602ZxNjIWobVOag0LVK4Ba9Ch3WFFIILAgggjnUFXEZWs/dHJjd9tvWv1z/wB6B76m6jGYxC1J3ZSfWJV2LMwO4JJPAO54HlpMw1SKvlyYnVg1O14Hw/Ak4OoPRGUKkfXY/kbe0K/z6Iw2Ls0Lk1q5PQSFalkEi9CxJaF1AADEkkkDjQf/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Panic Room</div>
-                                                <div class="unlocked">21 Mar 2026</div>
-                                            </div>
-                                            <div class="description">Complete ‘Lawmaker’ at C+ on 'Standard' difficulty or higher</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgABAYB/8QALBAAAQQBAwIEBQUAAAAAAAAAAQIDBAUABhEhEjEHQVF0FSI1s7QWUlOV0v/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBfLq1frpTMaIzAQymLHICoTKiSplCiSSkkkkk85Q/UU/8Ajr/69j/GTVX1Zv2kX7DeGrR8K3g6NoJTtlbt1zrQWwzDYT8quo/MlSgQQD1b+e+AGWb2wdVsG4HYnf4ex5Df9mXKK1fsZj0aWxAWyqJJUQITKTulhagQQkEEEA8emHnUkO6e0XZrYtblcOU2tp1qaEAOBSSdwUp2G3Rzi76S4uHPZy/x3MDmqvqzftIv2G8YfS1xEk6E0rXNS5T0hiEnrjpjEoY5Vz1DvuVDvgIuaiRYymJUR6AtlUWOAVTmUEFLKEkEKUCCCCORmup9b+IlPUwKyBdVaIEIBLDS3YK+kAkgEq3JHJ7nAPGob1yF4WvpDiVIiKdU+2W+oBlQO5B9dyB6c4pelDvcun1iS/x3MIVv4geI1vRzaedcVK66YhSHmUuwUAgkE7FJBHYdsxlHUyK6Y9KmPQEMpiSQSmcys7qZWkAALJJJIHA88D//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Fool Me Twice</div>
-                                                <div class="unlocked">12 Mar 2026</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABwYAAgMFCP/EAC0QAAICAQQBAwIEBwAAAAAAAAECAwQFAAYRIRIHE0ExMggiM1E1QmFydIG0/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APPuYydmhairUq9IQx1K78GjC57hQkklSTySez++tMNkcvlslDTpVK1iaQ9RwYyB3IHZ8V8Ozxz1pF9LGwVjd2Yw+dWx72ZwdfH1miCnxLRRFiOf5wFBUfPBH1I1Q7a9JJdr1s3ezMCWK9WaB61wTJJUyFR5FWSMr9yyBT5AjhgwHHxoIXeuJuYLbdDNUnry1JrD03NjFwRlnA81dV8OQCpIKnkoyMCT1qWwWVnyNyatbgoPC1SyxApQqeVgdgQQoIIIB6/bTX+KW7Xr7Yw+Jex7tyXITX4Yyh8o6xQIvkfoSx7JPZPJ0C7R/i7/AOHb/wCeTQZuaR4szDJGzI61ajKynggiCPsHT/su/Dur0RzVyzUbJZbGJ78yCcx+XtEHkgfUlD9w7/33oPzWIsZG1BZqTUHhapXALXoUIIhRSCC4IIII7GuKvi85WqzVq96tFXm/VjTKQqr/ANwEnegQ/WLd+J9Q9tbXnoR223HW84Ja8cDe37ZHlwp+SpAPyfzaN9rV5oskJJYpEjlpWzGzKQHAgkB4Pz3qr2xfyWIx1ajOsMsELWCHgzUEMkayiLkRt5HwPMXJPfIYj+uu1z247Oa8pb1fH00WOzNJ4ZOGVFY1WiVIYweUB6JHfLHnrQf/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>A Rest For The Wicked</div>
-                                                <div class="unlocked">10 Mar 2026</div>
-                                            </div>
-                                            <div class="description">Arrest 100 suspects or civilians</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
