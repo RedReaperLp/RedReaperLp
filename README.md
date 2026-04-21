@@ -168,7 +168,7 @@ Learn more:
 
 ## 📫 Contact
 
-- 🔗 [github.com/RedReaperLp](https://github.com/RedReaperLp)
+- Visit my [Website](https://redreaperlp.de)
 
 ---
 
