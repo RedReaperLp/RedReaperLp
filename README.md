@@ -22,7 +22,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/RedReaperLp?label=Followers&style=flat&logo=github&logoColor=white)](https://github.com/RedReaperLp)
 [![GitHub stars](https://img.shields.io/github/stars/RedReaperLp?label=Stars&style=flat&logo=github&logoColor=white)](https://github.com/RedReaperLp/)
 [![Profile views](https://komarev.com/ghpvc/?username=RedReaperLp&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RedReaperLp)
-[![Top Language](https://img.shields.io/github/languages/top/RedReaperLp/RedReaperLp?color=informational&style=flat)](https://github.com/RedReaperLp/RedReaperLp)
 [![Last Commit](https://img.shields.io/github/last-commit/RedReaperLp/RedReaperLp?color=success&style=flat)](https://github.com/RedReaperLp/RedReaperLp/commits/main)
 [![License](https://img.shields.io/github/license/RedReaperLp/RedReaperLp?color=blue&style=flat)](https://github.com/RedReaperLp/RedReaperLp/blob/main/LICENSE)
 
