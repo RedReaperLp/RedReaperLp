@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="468" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="635" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            712 hours played
+                            713 hours played
                         </div>
                     </section>
                 </div>
@@ -147,15 +147,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABAECAwYHAAX/xAAsEAACAQMCBAUEAwEAAAAAAAABAgMABBEFIQYSEzEUIjRBUQcVJGEjMnGB/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgUBAwQGAP/EACIRAAICAgIBBQEAAAAAAAAAAAECAAMEESExEgUiQXGBYf/aAAwDAQACEQMRAD8AoTTzGHqZG36psks3TE2236pkY/COa6QHwePalQ7nfa+dx8skyEOuOVhvtXPJKhQllIPtip4LK5vUSCyieWUjsKJuNB1RZ4bc2UouD2WgNqA6Yj9gsyqeTAGeVLhRzqEfbtSrJMJgr4JztivWuOFtdLRD7bMVU5zQOp6deafdwrewPCxO2ahbq3OlYGe81J0Dz9wZXlad0cgHFJGZHd0YjAFcw/MDHPxXRqfFSA5xirIeufnuImPCSGpoYWuY0hXu21Qr6JhR+igG/st+70DkqpIknhd/yavwtosOk2MXTwZWUEk968ziXVbfTeKree7YgAD3qzQx/wAcRzgcorNfqmF+6QZ82cCuUwScnJIsPYMTJu2wBpetO4rs9UvVtrZyGJ9zRWuaXBq1q8F2nMR2cdx/2sm4d1CHTNVhuJlwNu1Xa644sTJyqrZb91bk4FlFoOODrXcstx2qfSczO9TtG0/XJbQ9lG2fihovVSA/FFa1ci/4hkuVPlZQKFi9W5/VdLUWKAv3rmM6SxUFu4xN7VzR2jA+MtMMM89Ax72pPtU9lcLbGG4ZSQrVNgJUgdyWHtP1NwtyTDGzA5Cis3+qefu1vggg42FXTQNQgvreKeBiVIwRn3qvcZaUdW4lgg6ixZxgtXKenEU5W341uJ6T42AmURbWa8uYo7eNpXz2WvQk4c1nrrINMmwP8q76Rwq+maik5uUcL8CrDcXi2MT3F5MFiXfc0wyPWCrBaR5D9mu3M02kGxMVuIng1No7hSkoA8vxTY/VyAewzRGr3w1LiGe7A/jbyr+6Hi9XJn+2Kd1ligLDR1zNlTFlBI0TGRekO+1JIB4I/FTJAotjH1lyaa0X4/S6i5NHC+Idper3WkBJbVgQRjlPajrnii9kv471wvU2AGK8OVAYkUyAEV0qB+niQbVnbFqdvJl5lT01udkS0PxzqMboCisWPsvavG13Wr7V7iKO6kCwoeYKNs0DKvM0fLIoYHfPxSyRh50PUHl3oa8KitgyLoyBjVKd6kYwbzlAwAKWH1Un+UpQCcyc4pY0CzuxbuK1GXz/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABgABAgQFBwMI/8QALRAAAQQBAgQGAQQDAAAAAAAAAQACAwQRBQYSITFBBxQyUWFxExUWI5FicoH/xAAaAQABBQEAAAAAAAAAAAAAAAAEAAIDBQYB/8QAJBEAAgICAQQCAwEAAAAAAAAAAQMAAgQREgUhMUETYRRScYH/2gAMAwEAAhEDEQA/APlYcypsY6Q8LGlx+EgM47Ik2HE2TVS17A8JtzxG5PjpLmBe/MHmV5JBhkbiR1U3VLHL+F2fpFtrcbNNuyxw1Y3YcR6Qo/vYk86Uef8AUKPnf9YX+NiV7Wad/wAgp5WcemJ39JhVnBx+J2fpHWl7qkv2o68OnxniOCeAI1s+U0+g+xZrxCQNzgtCju+1O1hD8fpCciputp0PqcMlifG/hkGCoYJ+lc1e35u7LIGgAuOMeypg8sFEiUFwBbQjjoPtb+z7MdXUC6V3CMIeAPX2UmlwOWnBXLV5DUkQ4pYGD1LWpyCS/M5hyC84KrBri4Boy72THp/llF+wdE/UbosyjMMfMrl7BddmPQm+W4Lr7hFsjbL6jGXZXASuGeE9gs/xI1Rk8zakM3p9WCjLcd5+m6TJYiAADeFo+lxKzYfYmkmkOXvJQiAW2+S00XVWLwEDDT78ysevVMkkjplI+UgUinaMpRS/pVKa/bZXhblzzg8uy647y+2NBYGRk4GXkLK8PdC8lWF6w3+V/pz7Kp4ja4xsZowEOLvX8Kvbf528K+BNbhJHTcQ5LO17eIMbl3LY1h3ACWxDoB0Q6ch2EuY7piclH0qKjVZmHvu+5vc9459+6b67rUt6NarUo7UjcRv6LMA65/4kCD4jbrss6sNR85PDyRNsXRRq2qNMgHBGckHoUMD+iFd03VLWmuLqknCT1XLgmuqyXEYtbq2aN1E7lbZPFXc2o0cQbwgLm93ZmsahaksSEBzjyyFhnc+qd7ByU7d06qHAmw7l8oRaGL8ES9zOqYeZxq2ttD7nq7a15mpCk/Aee+FradsK2+4G2ntbGD1Q1Nrd6S1+d0rvy++VJ24NSPM2X5+ypyGn3K5bcCp3ahP+wu8TJGVoatCB4LYwM4+lz3qeasW7c1x/HYeXO+Sq+OuOyctfCuoNnZIynFg7Cf/Z" alt="" />
                             <div class="about">
-                                <div class="name">Captain of Industry</div>
+                                <div class="name">World War Z</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Indie, Simulation, Strategy, Early Access
+                                        Action
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        29 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -171,7 +171,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Aug 2026
+                                        Last played on 1 Sept 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -180,7 +180,52 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 0 achievements unlocked
+                                            7 / 35 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYI/8QALhAAAgEDBAECAwgDAAAAAAAAAQIDBAYRAAUSITETFCNBYQcVFiIyQkNxUXKS/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//EACARAAEDAwUBAAAAAAAAAAAAAAEAAhEDITESE0FhcYH/2gAMAwEAAhEDEQA/AOcLVtyruOrmhpWijSGJpZJJJFVUABPeSPn1o9FbcFNSidqJ54fUMPuJ2PFnAyQAhwOjnBJ61asDbUqX2yhaqWiG4viSoZeQXkxRAwHfHIOf9s6ZVRTy2laYod0aj3PaqzdJFmWknV+arEo5Kf1Ryow65AHOQQQTrANStzjSMDrhKd9hoqt1iWnEEjnCvC5wD9VYnI/ojQS6reqLdrkp6iWCZJY1lilhkV1dSoORg/XHf+NPazoqNKrdKC1IX3WuO2VLvXyw8GPJeCxxIT8MAuCzk5JBAwvlY33tU1ENw26skjlqduK/mjfmqMpCOgPzAyB11ldCNOEa41TBzfhQsmSjqY9u+8fc+yhYw1RpserGnIsHXPXgt/zrdXqKRbo3GV4VUO0cqy8xIKhWQYmB4gYfHLGOiSNKG1Lint2rmlhhgnjmieKSOWMMHDKR5PY7OetHY7gpKsZNV6GcfCnVsJjOArKCMDJx0POpItBXak869wAExg+RN/naYFmtF+I6GSCH1IhKZagCX0UEUY5lpG4kcFIViCDniBjOsZ9oFRQxybo+1+79lUOIqZqxg00oLB2kbAHnAPj92NUmuCkoxkVQnx/DChIfx0xYAY6HyPjQK67inuKthnmhggjhhSGOKFAqoFUD+z4z3o0WgJVeS/ccADHHmbL/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Explosive</div>
+                                                <div class="unlocked">1 Sept 2026</div>
+                                            </div>
+                                            <div class="description">Kill 10 zombies with balloon explosions</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAP/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMEBREABhIhMQcUQVETMoHBIiNhYnGCkf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EACQRAAECBAYDAQAAAAAAAAAAAAEAIQIDETESIkFxgZETscHw/9oADAMBAAIRAxEAPwDMVttlRXyflqVhUFnmYHggHck/bTZadsxVU6U1Db6i41TZwpDlmwMnEadcY69SdGNjVFwm23TbZW5xUdrrp/Pz+YfjErryVST3xhc4HduPtq0+C52RaK6e9PUVcVVb4zior6uOH4vJDkxwKcnp0wWJGR9JSrrQxGWwHN77qCXzaMdDHSGsojSebgWpgkp5fiAoSQCVJPqpBGQRjSbc7ZUW+TEqloWAZJlB4OD2IOqtvHck257t5t6eCkpowUpqaFQFhQsWx+rEsSWPUknQPcl3uNXslrHJVObbRzefihz0DkhG+n4sgehLH10IwupDGZuUgV69Ibt6q5WylkjYh4gYGI7g5LL/AKGI/rq7eFVRa/D261VfuTcdsJMHGS2U0ZqpSzenMDirAd+JPfB1mC13CW3zl0AeNxxkib5XH2PsfTTjYa633S4UdIbhHQiolWLlWI3GIscAllBBXJ74HTroGYqzAZgxA20+jftV+tuG3fEVLhR0tot23r3CWmtskJWGOrQZJjlJwqtxGc5x3/gxvdJFDR18TSxSMW8qrxOHRyGDMVI7gBR1/drpfa+32yvq6UV8dcIJWiDUaNxl4nGQzAYU46HB6ddJ10uEtwnDyAJGg4xxr8qL7D7n10JqwSXD488V9Of26//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Sport kills</div>
+                                                <div class="unlocked">1 Sept 2026</div>
+                                            </div>
+                                            <div class="description">Kill Lurker midair</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwYIAgQF/8QALxAAAgEDAwEGAwkAAAAAAAAAAQIDBAURAAYSIRMiMUFhgQcIURRSYnGCkrHB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAAP/xAAgEQACAgICAgMAAAAAAAAAAAABAgARAyESMUGRE2Fx/9oADAMBAAIRAxEAPwCsVrt7V7uqvwCYLOVJVVJwSSPbp550gWb4f1VVt+vvNJZ5ai2UCc56ypJVT1APFVIyRnJGTgeOuJZYhTWenwvekBqH9Tkqg9gCf1aspsePbY+X6rmuLSfaOyqY3iM8i9tMWYIFUHzIXovTofXRAvZnZmOMhFG/y+5Wqe026oVgIBC336diSPzRic+xGo3c7e1A6Kz8w+SrKpCsucAgn/DSSlOthtged5JqyoIjTtO+Y8/1qNXyIVFmnLDvRYnX0PII498g+2irXtepRlwlKTLXMi+qrzRryR9a1M7G5q7PT9mCzxq0L4GeJBLqT6YJ/adMeyq15vg3uaWohSRLU5SFQp5DtB2jE/VgygjHloF2XuWp2re47hSxpMACkkL+DqRgjzwcE9dMVr3dtautdwo7PdaizC4QSvUW+eFWhLBPFScBTjIB5fXAHTLA1RkbueQde9exD+53Ga616yrHNDTI2RzHFnx4KB/OtO+saSzziUFXlVYUBGOWSHYj0wF6/i1NVrNh7d4z1tbU3ivEUcq00aAx5ZeWC2SDjpnveeCD1ANN67lqd1XyS4VUaQgqEjiTwRQMAep9dbiAAoi+ZnyNlfZN+zP/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Escape</div>
+                                                <div class="unlocked">1 Sept 2026</div>
+                                            </div>
+                                            <div class="description">Finish episode "New York" on any difficulty</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIFBwj/xAAuEAACAQMDAgMGBwAAAAAAAAABAgMEBREABiESQRQxURMVMnGBwSIjQlKRkrH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQIDEQAEIRIxQQUTUXEUwfD/2gAMAwEAAhEDEQA/AOYrbbKivk/LUrCoLPMwPQgHmSftpbb9rwtD1xUUlSAOZJ3Khvkqkf6dW2ya2vG2INviqkFqq5veE8GeC65Vfphckdz0ntpgoCgBQABwAO2lX39BgVf6V0v5KSpZgD0TsDzgRPisxqbJQSqR4dqdv3wOWx80bz+hzo1c7ZUW+TEqloWAZJlB6HB8iDrbKXZV33NcJxt2j8TKkftZkDqnSPXJIGT6aK71qL3T7Vn2vdGqKent8/jlpJOCkjEKwI+TZA7Ese+jIUFJChUu5YWy8phYEjnbETxVXtO4eyo6SdAGaJWp3BOOcll/kE/10wlq53tniqd16lwzKBnHrnWQWu4S2+cugDxuOmSJvhcfY+h7adbVvNHU3Smpo7hDReKdYGauRisfUcZZl4Iz3IHGhuNA5jP7FOWl8ptJQVQkjMYIMRqHnYYmltPuGlopKapamWtXnrpzM8QPH6ivPng8ennoRu+4iemr6lo4YDUkQpFEuFX8QZgMkngBRkknLcnOpX+42+3XKtp1roqwQytGDRIwWTBxlWYcLxwcHjQy6XCW4Th3ASNB0xxr8KD0H3PfW0ICBpTS9zdLfc7zpExAA9RP35mv/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Torero</div>
+                                                <div class="unlocked">1 Sept 2026</div>
+                                            </div>
+                                            <div class="description">Kill Bull during charge</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
