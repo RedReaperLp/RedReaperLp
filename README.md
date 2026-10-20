@@ -168,7 +168,10 @@ Learn more:
 
 ## 📫 Contact
 
-- Visit my [Website](https://redreaperlp.de)
+- Visit my websites for more information
+- [KuschiTec](https://kuschi-tec.de/)
+- [RedReaperLp](https://redreaperlp.de/)
+- [SillyCore](https://sc.redreaperlp.de/)
 
 ---
 
